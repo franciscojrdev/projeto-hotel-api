@@ -13,7 +13,6 @@ export default function Layout({ children }: LayoutProps) {
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/about">About</a></li>
-            {/* Adicione mais links de navegação conforme necessário */}
           </ul>
         </nav>
       </header>
